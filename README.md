@@ -9,7 +9,6 @@
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
-[Demo](https://your-demo-link.com) · [Report Bug](https://github.com/yourusername/cleanzio/issues) · [Request Feature](https://github.com/yourusername/cleanzio/issues)
 
 ![Cleanzio Dashboard](https://via.placeholder.com/800x400?text=Cleanzio+Dashboard)
 
