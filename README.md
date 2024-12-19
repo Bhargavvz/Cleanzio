@@ -95,7 +95,7 @@ npm --version    # Should be 6.x or higher
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/cleanzio.git
+git clone https://github.com/bhargavvz/cleanzio.git
 
 # Navigate to project directory
 cd cleanzio
@@ -179,7 +179,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <div align="center">
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by [Bhargav Adepu](https://github.com/bhargavvz)
 
 ⭐️ Star us on GitHub — it helps!
 
