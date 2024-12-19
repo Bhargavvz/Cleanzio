@@ -10,7 +10,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
 
-![Cleanzio Dashboard](https://via.placeholder.com/800x400?text=Cleanzio+Dashboard)
+![Cleanzio Dashboard](https://i.postimg.cc/66HnzBq3/Food-Safety-Smplified.png)
 
 </div>
 
